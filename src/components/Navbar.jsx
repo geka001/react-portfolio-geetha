@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav style={{ paddingLeft: '40px' }} className="mb-20 flex items-center justify-between py-6">
+    <nav style={{ paddingLeft: '30px' }} className="mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
         <img className="mx-2 w-10" src={logo} alt="logo" />
       </div>
